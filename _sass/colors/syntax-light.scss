@@ -14,6 +14,11 @@
   --code-header-muted-color: #e5e5e5;
   --code-header-icon-color: #c9c8c8;
   --clipboard-checked-color: #43c743;
+  
+  /* Custom color preset */
+  --code-header-red-color: #F5655B;
+  --code-header-yellow-color: #F6BD3B;
+  --code-header-green-color: #43C645;
 
   [class^='prompt-'] {
     --inline-code-bg: #fbfafa;

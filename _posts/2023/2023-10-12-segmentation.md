@@ -1,6 +1,6 @@
 ---
 title: "Segmentation"
-categories: ["Computer Science", "operating system"]
+categories: ["Computer Science", "Operating System"]
 tags: ["basic knowledge"]
 date: 2023-10-12 20:35 +0900
 author: jun

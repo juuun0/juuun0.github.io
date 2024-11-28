@@ -8,6 +8,12 @@ url: "https://juuun0.github.io"
 twitter_username: insp3ct0r_x
 github_username:  juuun0
 
+# User settings
+header_pages: 
+  - index.md
+
+footer: 'follow me on <a href="https://x.com/@insp3ct0r_x">X</a>'
+
 # Build settings
 markdown: kramdown
 remote_theme: juuun0/jekyll-theme-console

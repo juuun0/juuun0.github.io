@@ -11,6 +11,9 @@ github_username:  juuun0
 # User settings
 header_pages: 
   - index.md
+  - blog.md
+  - wiki.md
+  - about.md
 
 footer: 'follow me on <a href="https://x.com/@insp3ct0r_x">X</a>'
 

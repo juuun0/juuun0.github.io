@@ -6,7 +6,7 @@ permalink: /insp3ct0r_x
 
 # Bio
 ---
-JunYoung Choi, also known as ***insp3ct0r_x***, is an offensive security research at **STEALIEN, Inc.**
+JunYoung Choi, also known as ***insp3ct0r_x***, is an offensive security researcher at **STEALIEN, Inc.**
 
 # Work Experience
 ---

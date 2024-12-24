@@ -29,7 +29,7 @@ JunYoung Choi, also known as ***insp3ct0r_x***, is an offensive security researc
 > - Penetration testing IoT devices
 
 
-# Achivements
+# Achievements
 ---
 
 Nothing yet

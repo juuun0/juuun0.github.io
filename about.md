@@ -1,12 +1,12 @@
 ---
 layout: page
-title: /insp3ct0r_x
-permalink: /insp3ct0r_x
+title: /ji9umi
+permalink: /ji9umi
 ---
 
 # Bio
 ---
-JunYoung Choi, also known as ***insp3ct0r_x***, is an offensive security researcher at **STEALIEN, Inc.**
+JunYoung Choi, also known as ***ji9umi***, is an offensive security researcher at **STEALIEN, Inc.**
 
 # Work Experience
 ---
@@ -25,7 +25,7 @@ JunYoung Choi, also known as ***insp3ct0r_x***, is an offensive security researc
 
 *April 2024 ~ Present*, *Senior Researcher, member of Defend Forward Team*
 
-> - White-box code auditing
+> - White-box Web/App code auditing
 > - Penetration testing IoT devices
 
 

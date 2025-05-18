@@ -8,16 +8,18 @@ permalink: /ji9umi
 ---
 JunYoung Choi, also known as ***ji9umi***, is an offensive security researcher at **STEALIEN, Inc.**
 
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/junyoung-choi-106a96229).
+
 # Work Experience
 ---
-## In The Forest
+### In The Forest
 
 *February 2022 ~ March 2023*, *Junior Vulnerability Researcher, member of R&D*
 
 > - N-day vulnerability research targeting IoT devices
 > - Exploit development targeting Android systems
 
-## STEALIEN
+### STEALIEN
 
 *March 2023 ~ April 2024*, *Senior Researcher, member of Pentesting Team*
 
@@ -32,19 +34,25 @@ JunYoung Choi, also known as ***ji9umi***, is an offensive security researcher a
 # Achievements
 ---
 
-Nothing yet
+### Skills Competition
+
+> - 2020 Incheon Regional / IT Network System / Gold medal
+> - 2020 National / IT Network System / Encouragement prize
+> - 2021 Incheon Regional / Cyber Security / Gold medal
+> - 2021 National / Cyber Security / Bronze medal
 
 # Education
 ---
 
-## Incheon Electronic Meister High School
+### Incheon Electronic Meister High School
 *March 2018 ~ January 2021*, *Student*
 
 > - **Department of Information and Telecommunication Technology**
 > > = Basic Electronic Circuit
+> > = Basic Programming Language
 > > = Advanced Network Engineering
 
-## K-Shield Jr.
+### K-Shield Jr.
 *March 2021 ~ June 2021*, *Trainee*
 
 > - Security consultant track

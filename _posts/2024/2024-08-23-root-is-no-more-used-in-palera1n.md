@@ -3,7 +3,7 @@ title: Root is no more used in Palera1n
 category: Blog
 tags: ['Jailbreak', 'Tips']
 date: 2024-08-23 14:40:00 +0900
-author: insp3ct0r_x
+author: ji9umi
 ---
 
 ## Intro

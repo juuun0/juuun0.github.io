@@ -313,13 +313,13 @@ CVE-2025-31125
 ## 0xFF. References
 
 - Write-Up
-    - Terminal
-        - [Flutter Reversing on Android](https://core-research-team.github.io/2021-05-01/Flutter-Reversing-on-Android)
-    - Powerlang
-        - [CVE-2025-32433 by Horizon3 Attack Team](https://x.com/Horizon3Attack/status/1912945580902334793)
-        - [ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce/tree/main)
-        - [linPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS)
-        - [LPE vector via sudo](https://gtfobins.github.io/#+sudo)
-    - Volnaya
-        - [CVE-2025-31125](https://github.com/0xgh057r3c0n/CVE-2025-31125)
-        - [CVE-2020-9484](https://bziwnsizd.tistory.com/76)
+> - Terminal
+> > - [Flutter Reversing on Android](https://core-research-team.github.io/2021-05-01/Flutter-Reversing-on-Android)
+> - Powerlang
+> > - [CVE-2025-32433 by Horizon3 Attack Team](https://x.com/Horizon3Attack/status/1912945580902334793)
+> > - [ssh_erlangotp_rce](https://github.com/exa-offsec/ssh_erlangotp_rce/tree/main)
+> > - [linPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS)
+> > - [LPE vector via sudo](https://gtfobins.github.io/#+sudo)
+> - Volnaya
+> > - [CVE-2025-31125](https://github.com/0xgh057r3c0n/CVE-2025-31125)
+> > - [CVE-2020-9484](https://bziwnsizd.tistory.com/76)

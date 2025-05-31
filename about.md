@@ -34,6 +34,12 @@ You can find more about me on [LinkedIn](https://www.linkedin.com/in/junyoung-ch
 # Achievements
 ---
 
+### Pwn2Own 2024 Ireland
+*Team STEALIEN*
+
+> - [Ubiquity Ai Bullet](https://www.zerodayinitiative.com/blog/2024/10/22/pwn2own-ireland-day-one-the-results), $30,000
+> - [Lorex 2K camera](https://www.zerodayinitiative.com/blog/2024/10/24/pwn2own-ireland-2024-day-three-results), $3,750
+
 ### Skills Competition
 
 > - 2020 Incheon Regional / IT Network System / Gold medal
